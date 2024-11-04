@@ -42,8 +42,8 @@ const Contact = (props) => {
           <article className='contact__option'>
             <ImWhatsapp className='contact__option-icon'/>
             <h4>WhatsApp</h4>
-            <h5>+79177463908</h5>
-            <a href='https://api.whatsapp.com/send?phone=+79177463908' target='blank'>Отправить сообщение</a>
+            <h5>+79273143616</h5>
+            <a href='https://api.whatsapp.com/send?phone=+79273143616' target='blank'>Отправить сообщение</a>
           </article>
         </div>
 
